@@ -1,0 +1,15 @@
+html {
+	background-color: #202020;
+}
+
+body {
+	margin: 0px;
+	font-family: 'Open Sans', sans-serif;
+	color: lightgray;
+}
+
+.content {
+	margin: 0 auto;
+	padding: 5vh 5vw;
+	max-width: 50rem;
+}
